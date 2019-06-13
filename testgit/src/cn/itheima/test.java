@@ -9,4 +9,8 @@ public class test {
         System.out.println("hahahahaha");
         System.out.println("hahahahaha");
     }
+    public void a(){
+        System.out.println("aaaaaa");
+
+    }
 }
