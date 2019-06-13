@@ -9,4 +9,9 @@ public class trst {
         System.out.println("wwwwww");
         System.out.println("wwwwww");
     }
+
+    public void a(){
+        System.out.println("gai");
+
+    }
 }
