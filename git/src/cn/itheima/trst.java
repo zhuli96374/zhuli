@@ -14,4 +14,10 @@ public class trst {
         System.out.println("gai");
 
     }
+
+    public void aaaa(){
+        System.out.println("bbbbb");
+
+
+    }
 }
